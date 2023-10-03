@@ -1,2 +1,2 @@
-#!bin/bash
-echo $PATH | find 'd' | wc 'l'
+#!/bin/bash
+echo $PATH | find ':' '\n' | wc -l
