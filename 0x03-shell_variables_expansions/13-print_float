@@ -1,2 +1,2 @@
 #!/bin/bash
-export $NUM="12"
+export $NUM="1.23"
