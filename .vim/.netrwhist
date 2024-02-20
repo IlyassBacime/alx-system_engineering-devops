@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/alx-zero_day/0x03-git'
+let g:netrw_dirhist_2='/alx-zero_day/0x03-git/js'
+let g:netrw_dirhist_1='/root/0x01_emacs/0x01_emacs'
